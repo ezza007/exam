@@ -1,0 +1,72 @@
+h1{
+    text-align: center;
+    background-color: lightblue;
+    border: 3px solid red;
+    border-radius: 20px;
+    }
+    mark{
+      text-align: center;   
+    }
+    em{
+        color: red;
+    }
+    h3{
+        text-align: center;
+        background-color: yellow;
+        border-radius: 20px;
+    }
+    iframe{
+        text-align: center;
+    }
+    button{
+    text-align: center;
+    background-color: lightblue;
+    }
+    .arslon{
+    background-color: darkgreen;
+    text-align: center;
+    color: white;
+    }
+    .qiziqarli{
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    }
+    table{
+    width: 100%; height: 50px;
+    }
+    .red{
+    text-align: center;
+    color: white;
+       background-color: red; 
+    }
+    .black{
+    text-align: center;
+    color: white;
+    background-color: black;
+    }
+
+
+    th, td{
+        border: 1px solid black;
+    }
+table{
+    border-collapse: collapse;
+}
+
+.green{
+    background-color: rgb(8, 69, 43);
+    color: beige;
+}
+.blue{
+    background-color: blue;
+    color: aliceblue;
+}
+.center{
+    text-align: center;
+    background-color: rgb(234, 13, 13)+;
+}
+
+.center iframe{
+    width: 800px;
+}
